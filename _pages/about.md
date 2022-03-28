@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
+Hello, I am an Aerospace Engineer, enjoying experimenting blogging about Machine Learning and Product Development Management. 
+
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
 
